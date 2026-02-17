@@ -169,4 +169,3 @@ page.footer.id = "footer";
 page.footer.textContent = "Copyright © CasaTa";
 page.main.appendChild(page.footer);
 
-console.log("Pagina a fost generata complet din JS:", page);
